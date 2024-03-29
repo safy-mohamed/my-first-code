@@ -1,1 +1,3 @@
-This is my first file I create in GirHubVersion 0.0.1
+This is my first file I create in GitHub
+
+Version 1.0.0
